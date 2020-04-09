@@ -5,7 +5,7 @@
 
 2、搭建SFML环境https://www.sfml-dev.org/tutorials/2.5/start-vc.php
 
-如果不需要live2d部分可以把live2d有关的代码删掉而不需要做以下几步
+如果不需要live2d部分可以把live2d有关的代码删掉而不需要做以下几步\n
 如果需要live2d请继续以下步骤
 
 3、下载live2d的SDK for native
